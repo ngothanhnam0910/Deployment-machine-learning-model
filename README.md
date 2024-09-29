@@ -22,4 +22,4 @@ This command will start two services: frontend and backend.
 - Open your web browser and go to <ins>http://localhost://8501</ins> to view the app and <ins>http://localhost:8000</ins> to view the API service up.
 
 ### Result Final
-![Application]("https://github.com/ngothanhnam0910/Deployment-machine-learning-model/image/deployment.png")
+![Application](image/deployment.png)

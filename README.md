@@ -19,7 +19,7 @@ Run services with docker-compose: ```docker compose -f docker-compose.yaml up -d
 
 This command will start two services: frontend and backend.
 
-- Open your web browser and go to <ins>localhost://8501</ins> to view the app and <ins>http://localhost:8000</ins> to view the API service up.
+- Open your web browser and go to <ins>http://localhost://8501</ins> to view the app and <ins>http://localhost:8000</ins> to view the API service up.
 
 ### Result Final
-![Application]("image/deployment.PNG")
+![Application]("./image/deployment.PNG")

@@ -7,8 +7,9 @@ This is a simple web application that predicts the species of an Iris flower bas
 ## Features
 
 - Predicts Iris flower species base on user input.
-- Simple UI(Frontend) using Streamlit.
-- Write API using FastAPI.
+- Simple UI (Frontend) using Streamlit.
+- Write API (Backend) using FastAPI.
+- Package service using docker-compose
 
 ## Installation
 
@@ -22,4 +23,7 @@ This command will start two services: frontend and backend.
 - Open your web browser and go to <ins>http://localhost://8501</ins> to view the app and <ins>http://localhost:8000</ins> to view the API service up.
 
 ### Result Final
+
+This is result after running services
+
 ![Application](image/deployment.png)
